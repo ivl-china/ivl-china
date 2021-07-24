@@ -2,7 +2,7 @@
 
 Click <a href="https://ivl-china.github.io/ivl-china/documents/acef.pdf">here</a> to download the PDF file, 
 
-or download from third-party site -- <a href="https://pan.baidu.com/s/1Q0Y0lEqLUyv-W9CZ5fvHiQ">BaiduYunDisk</a> with a password "ivlc", 
+or download from third-party sites -- <a href="https://pan.baidu.com/s/1Q0Y0lEqLUyv-W9CZ5fvHiQ">BaiduYunDisk</a> with a password "ivlc", 
 
 -- <a href="https://share.weiyun.com/B9y31b5E">Tencent Weiyun</a>.
 
