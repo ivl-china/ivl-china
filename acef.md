@@ -4,18 +4,18 @@ Click the hyperlink to download <a href="https://ivl-china.github.io/ivl-china/a
 
 You can also get a zip package by clicking <a href="/acef.zip">here</a>
 
-<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=1" type="application/pdf" width="100%" height="600px" />
+![p1](acefp1.png)
 
-<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=2" type="application/pdf" width="100%" height="600px" />
+![p2](acefp2.png)
 
-<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=3" type="application/pdf" width="100%" height="600px" />
+![p3](acefp3.png)
 
-<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=4" type="application/pdf" width="100%" height="600px" />
+![p4](acefp4.png)
 
-<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=5" type="application/pdf" width="100%" height="600px" />
+![p5](acefp5.png)
 
-<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=6" type="application/pdf" width="100%" height="600px" />
+![p6](acefp6.png)
 
-<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=7" type="application/pdf" width="100%" height="600px" />
+![p7](acefp7.png)
 
-<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=8" type="application/pdf" width="100%" height="600px" />
+![p8](acefp8.png)
