@@ -4,4 +4,4 @@ Click the hyperlink to download <a href="https://ivl-china.github.io/ivl-china/a
 
 You can also get a zip package by clicking <a href="/acef.zip">here</a>
 
-<embed src="https://ivl-china.github.io/ivl-china/acef.pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="https://ivl-china.github.io/ivl-china/acef.pdf" type="application/pdf" width="100%" height="10000px" />
