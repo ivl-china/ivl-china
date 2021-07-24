@@ -4,4 +4,18 @@ Click the hyperlink to download <a href="https://ivl-china.github.io/ivl-china/a
 
 You can also get a zip package by clicking <a href="/acef.zip">here</a>
 
-<embed src="https://ivl-china.github.io/ivl-china/acef.pdf" type="application/pdf" width="100%" height="1000px" />
+<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=1" type="application/pdf" width="100%" height="600px" />
+
+<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=2" type="application/pdf" width="100%" height="600px" />
+
+<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=3" type="application/pdf" width="100%" height="600px" />
+
+<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=4" type="application/pdf" width="100%" height="600px" />
+
+<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=5" type="application/pdf" width="100%" height="600px" />
+
+<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=6" type="application/pdf" width="100%" height="600px" />
+
+<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=7" type="application/pdf" width="100%" height="600px" />
+
+<embed src="https://ivl-china.github.io/ivl-china/acef.pdf#page=8" type="application/pdf" width="100%" height="600px" />
