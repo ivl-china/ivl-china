@@ -1,12 +1,12 @@
 ## 中华环保联合会关于举办“碳达峰碳中和”能力建设、企业与产品生命周期评价(LCA) 培训班的通知
 
-Click the hyperlink to directly download the <a href="https://ivl-china.github.io/ivl-china/documents/acef.pdf">PDF file</a>, 
+Click <a href="https://ivl-china.github.io/ivl-china/documents/acef.pdf">here</a> to download the PDF file, 
 
-or by <a href="https://pan.baidu.com/s/1Q0Y0lEqLUyv-W9CZ5fvHiQ">BaiduYunDisk</a> with password "ivlc", 
+or download with third party -- <a href="https://pan.baidu.com/s/1Q0Y0lEqLUyv-W9CZ5fvHiQ">BaiduYunDisk</a> with password "ivlc", 
 
-or by <a href="https://share.weiyun.com/B9y31b5E">Tencent Weiyun</a>.
+-- <a href="https://share.weiyun.com/B9y31b5E">Tencent Weiyun</a>.
 
-You can also get a zip package by clicking <a href="https://ivl-china.github.io/ivl-china/documents/acef.zip">here</a>.
+You could also get the zip package by clicking <a href="https://ivl-china.github.io/ivl-china/documents/acef.zip">here</a>.
 
 ![p1](ACEF/acefp1.png)
 
