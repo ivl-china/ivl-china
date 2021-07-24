@@ -4,6 +4,8 @@ Content:
 
 [中华环保联合会关于举办“碳达峰碳中和”能力建设、企业与产品生命周期评价(LCA) 培训班的通知](https://ivl-china.github.io/ivl-china/acef)
 
+<embed src="documents/acef.pdf" type="application/pdf" width="100%" height="600px" />
+
 You can use the [editor on GitHub](https://github.com/ivl-china/ivl-china/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
