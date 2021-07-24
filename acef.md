@@ -2,7 +2,7 @@
 
 Click the hyperlink to download <a href="https://ivl-china.github.io/ivl-china/acef.pdf">PDF file</a>
 
-You can also get a zip package by clicking <a href="/acef.zip">here</a>
+You can also get a zip package by clicking <a href="https://ivl-china.github.io/ivl-china/acef.zip">here</a>
 
 ![p1](ACEF/acefp1.png)
 
