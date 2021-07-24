@@ -4,4 +4,4 @@ Click the hyperlink to download <a href="/acef.pdf">PDF file</a>
 
 You can also get a zip package by clicking <a href="/acef.zip">here</a>
 
-<embed src="/acef.pdf" type="application/pdf" width="100%" height="1000px" />
+<embed src="/acef.pdf" type="application/pdf" width="100%" height="600px" />
